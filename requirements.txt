@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic[email]
+python-jose
+argon2-cffi
+python-multipart
+pymysql
+pytest
+httpx
